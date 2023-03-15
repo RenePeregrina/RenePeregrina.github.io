@@ -1,0 +1,25 @@
+#html{
+    background-repeat: round;
+    background-image: url("C:/Users/Bachiller/Downloads/Proyecto tics/Imágenes/f2.jpg");
+    width: 200px;
+    height: 600px;
+}
+#titulotexto{
+    text-align: center;
+}
+#t1{
+    background-color: cadetblue;
+}
+#t2{
+    background-color:beige;
+}
+#txt{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+#texto1{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 12.5px;
+}

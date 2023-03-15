@@ -1,0 +1,148 @@
+#html{
+    background-repeat: round;
+    background-image: url(https://img.freepik.com/vector-gratis/diseno-patron-abstracto_1053-523.jpg);
+}
+#image1{
+    display: inline-block;
+    width: 10%;
+    float: left;
+}
+#titulotexto{
+    display: inline-block;
+    width: 87%;
+    word-spacing: 7px;
+}
+#header{
+    background-color: lightcyan;
+    width: 100%;
+    height: 160px;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: darkgray;
+    border: solid dimgray 5px;
+    text-align: center;
+    padding: 20px;
+    word-spacing: 5px;
+    border-radius: 10px;
+    font-family: cursive;
+    font-size: 15px;
+    margin: 5px;
+}
+#barra{
+    display: inline-block;
+    width: 75%;
+}
+#f1{
+    float: left;
+    width: 17%;
+}
+#marco{
+    float: left;
+    width: 73%;
+    height: 600px;
+    margin: 25px;
+    border-radius: 15px;
+    padding: 15px;
+    border: solid purple 5px;
+}
+#navegacion{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin: 30px;
+}
+#pie{
+    width: 100%;
+    height: 130px;
+    padding: 15px;
+    background-color: lightcyan;
+    font-family: sans-serif;
+    font-size: 18px;
+    border: double 10px black;
+}
+#marco1{
+    width: 13.2%;
+    height: 600px;
+    margin: 25px;
+    border-radius: 15px;
+    padding: 15px;
+    border: solid purple 5px;
+    text-align: center;
+}
+#cuadro{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+#t2{
+    font-family: cursive;
+}
+#t1{
+    font-family: cursive;
+}
+#marco2{
+    float: left;
+    width: 43.2%;
+    height: 233px;
+    margin: 25px;
+    border-radius: 15px;
+    padding: 15px;
+    border: solid purple 5px;
+}
+#marco3{
+    width: 43.2%;
+    height: 233px;
+    margin: 25px;
+    border-radius: 15px;
+    padding: 15px;
+    border: solid purple 5px;
+    align-self: center;
+}
+#marco4{
+    float: left;
+    display: inline-block;
+    width: 44.55%;
+    height: 50px;
+    border-radius: 15px;
+    padding: 5px;
+    border: solid purple 5px;
+    text-align: center;
+    margin: 25px;
+}
+#marco5{
+    display: inline-block;
+    width: 44.55%;
+    height: 50px;
+    border-radius: 15px;
+    padding: 5px;
+    border: solid purple 5px;
+    text-align: center;
+    margin: 25px;
+}
+#rana{
+    opacity: 0.75;
+}
+#c3{
+    align-items: center;
+}
+#m1{
+    display: inline-block;
+    margin: 15px;
+}
+#m2{
+    display: inline-block;
+    margin: 15px;
+}
+#m3{
+    display: inline-block;
+    margin: 15px;
+}
+#enlace{
+    text-align: center;
+}
+#tpie{
+    font-size: 25px;
+    font-family: inherit;
+}

@@ -1,0 +1,77 @@
+#html{
+    background-repeat: round;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmU2EKNguemA07fTG5fkiNhUW3xnIs3MUvJ962jSD7ofCbhXR);
+    padding: 25px;
+}
+#titulotexto{
+    background-color: lightcoral;
+    text-align: center;
+}
+#txt{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+#texto1{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+#img{
+    text-align: center;
+}
+#image{
+    width: 30%;
+}
+#txt2{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+#texto2{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 17px;
+    background-color: whitesmoke;
+    margin: 25px;
+}
+#txt3{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+#texto3{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 17px;
+    background-color: whitesmoke;
+    margin: 25px;
+}
+#txt4{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+#texto4{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 17px;
+    background-color: whitesmoke;
+    margin: 25px;
+}
+.t{
+    text-align: left;
+    background-color: burlywood
+}
+#txt5{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+#texto5{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 17px;
+    background-color: whitesmoke;
+    margin: 25px;
+}
